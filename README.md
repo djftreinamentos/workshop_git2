@@ -6,3 +6,6 @@ Este é um **projeto** de exemplo de utilização do git e do github.
 - Utilizar o Git local
 - Utilizar o Git de forma remota
 - Aprender sobre markdown
+
+![Imagem Lognex]
+(https://github.com/djftreinamentos/workshop_git2/blob/main/git.png)
