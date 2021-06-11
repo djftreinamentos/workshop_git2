@@ -8,3 +8,8 @@ Este é um **projeto** de exemplo de utilização do git e do github.
 - Aprender sobre markdown
 
 <img src="https://github.com/djftreinamentos/workshop_git2/blob/main/git.png"/>
+
+
+Para acessar a [raíz](https://github.com/djftreinamentos/workshop_git2) do projeto, clique no link.
+
+
